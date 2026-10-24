@@ -1,0 +1,22 @@
+[
+  {
+    "keywords": ["cod", "cash on delivery"],
+    "answer": "Yes, Cash on Delivery is available all over Pakistan. You can pay when you receive your parcel."
+  },
+  {
+    "keywords": ["shipping", "delivery time", "kitne din"],
+    "answer": "Delivery within 2-4 working days in Pakistan. Free shipping on orders above Rs. 3000."
+  },
+  {
+    "keywords": ["return", "exchange", "wapsi"],
+    "answer": "We offer 7-day easy return & exchange. Product must be unused with original packaging."
+  },
+  {
+    "keywords": ["payment", "jazzcash", "easypaisa", "bank"],
+    "answer": "We accept COD, JazzCash, Easypaisa and Bank Transfer."
+  },
+  {
+    "keywords": ["original", "authentic"],
+    "answer": "Yes, all products are 100% original and authentic with brand warranty."
+  }
+]
